@@ -1,1 +1,1 @@
-# quiz
+https://agliullinadi.github.io/quiz/index
